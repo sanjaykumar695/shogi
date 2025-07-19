@@ -39,6 +39,14 @@ This project focuses on detecting and classifying coins (pieces) in the traditio
 
     💡 Use brightness.py to generate image variations under different lighting conditions.
 
+-----------------------------------------------------------------------------------------------------------------
+
+Ultralytics-Yolo V8 model codes are available in 
+
+https://docs.ultralytics.com/modes/train/#usage-examples
+
+-----------------------------------------------------------------------------------------------------------------
+
 📦 Dataset Versioning
 
     Maximum version size: 3x
